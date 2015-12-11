@@ -20,6 +20,8 @@
     
     NSLog(@"哈哈");
     
+    NSLog(@"只是提交到了本地，没有到远程去");
+    
 }
 
 - (void)didReceiveMemoryWarning {
