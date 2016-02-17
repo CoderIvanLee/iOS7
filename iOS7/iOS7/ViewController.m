@@ -24,6 +24,8 @@
     
     NSLog(@"你好哈");
     
+    NSLog(@"大家我懒");
+    
 }
 
 - (void)didReceiveMemoryWarning {
